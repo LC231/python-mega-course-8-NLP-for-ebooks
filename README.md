@@ -1,1 +1,1 @@
-# python-mega-course-7-NLP-for-ebooks
+# python-mega-course-8-NLP-for-ebooks
